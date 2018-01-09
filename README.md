@@ -2,6 +2,21 @@
 <h2>Presentation</h2>
 <p><a>https://github.com/FilipAntic/scriptPresentation/blob/master/src/assets/Angular%20presentation/Script%20presentation.pptx</a></p>
 
+<h2>Guide for running app</h2>
+
+<p>Download NodeJS from:  https://nodejs.org/en/download/</p>
+<p>From your command line you should run this :</p>
+<p>npm install -g @angular/cli</p>
+<p>Navigate to folder where your project is, and run this command:</p>
+<p>npm install</p>
+<p>npm install primeng --save</p>
+<p>npm install @angular/animations --save</p>
+<p>npm install --save font-awesome</p>
+<p>npm install bootstrap@3</p>
+<p>npm install --save firebase</p>
+<p>For running app: </p>
+<p>ng serve</p>
+<p>On localhost:4200 this app will be shown</p>
 # ScriptPresentation
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.1.
