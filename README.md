@@ -1,3 +1,7 @@
+
+<h2>Presentation</h2>
+<p><a>https://github.com/FilipAntic/scriptPresentation/blob/master/src/assets/Angular%20presentation/Script%20presentation.pptx</a></p>
+
 # ScriptPresentation
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.1.
